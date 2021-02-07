@@ -260,15 +260,15 @@
 	</build>
 
 	<distributionManagement>
-		<repository>
-			<id>qcadoo-releases-repository</id>
-			<url>http://nexus.qcadoo.org/content/repositories/releases</url>
-		</repository>
-		<snapshotRepository>
-			<id>qcadoo-snapshots-repository</id>
-			<url>http://nexus.qcadoo.org/content/repositories/snapshots</url>
-			<uniqueVersion>false</uniqueVersion>
-		</snapshotRepository>
+<!--		<repository>-->
+<!--			<id>qcadoo-releases-repository</id>-->
+<!--			<url>http://nexus.qcadoo.org/content/repositories/releases</url>-->
+<!--		</repository>-->
+<!--		<snapshotRepository>-->
+<!--			<id>qcadoo-snapshots-repository</id>-->
+<!--			<url>http://nexus.qcadoo.org/content/repositories/snapshots</url>-->
+<!--			<uniqueVersion>false</uniqueVersion>-->
+<!--		</snapshotRepository>-->
 	</distributionManagement>
 
 	<scm>
