@@ -12,9 +12,9 @@ public class LogoComponent {
 
     private final static String L_MENU_LOGO_BASE_PATH = "/qcadooView/public/css/core/menu/images-new/";
 
-    private final static String L_LOGO_NAME = "qcadoo-logo_bak.png";
+    private final static String L_LOGO_NAME = "qcadoo-logo.png";
 
-    private final static String L_TEST_LOGO_NAME = "qcadoo-test-logo_bak.png";
+    private final static String L_TEST_LOGO_NAME = "qcadoo-test-logo.png";
 
     private final static String L_TEST_APPLICATION_PROFILE = "TEST";
 
